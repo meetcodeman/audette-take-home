@@ -13,5 +13,5 @@
 
 ### Running test cases:
 1. Test cases are written using pytest
-2. Navigate to folder containing `test_blizzard.py`
+2. Navigate to folder containing `test_valley_map.py`
 3. Run test cases using the command `pyest`
